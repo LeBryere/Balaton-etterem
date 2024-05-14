@@ -1,4 +1,4 @@
-# [Balaton étterem](https://lebryere.github.io/Balaton-etterem/)
+# [Balaton étterem](https://lebryere.github.io/Balaton-etterem/index.html)
 
 ## Browser Support
 
@@ -8,9 +8,9 @@
 
 ## Preview
 
-[![Resume Preview](preview.jpg)](https://lebryere.github.io/Balaton-etterem/)
+[![Resume Preview](preview.jpg)](https://lebryere.github.io/Balaton-etterem/index.html)
 
-**[View Live Preview](https://lebryere.github.io/Balaton-etterem/)**
+**[View Live Preview](https://lebryere.github.io/Balaton-etterem/index.html)**
 
 ## Status
 
