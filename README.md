@@ -9,7 +9,6 @@
 ## Preview
 
 [![Resume Preview](preview.jpg)](https://lebryere.github.io/Balaton-etterem/)
-[![Resume Preview](preview-2.jpg)](https://lebryere.github.io/Balaton-etterem/)
 
 **[View Live Preview](https://lebryere.github.io/Balaton-etterem/)**
 
