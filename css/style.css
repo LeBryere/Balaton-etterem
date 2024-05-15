@@ -5685,6 +5685,11 @@ cite.fn .star-rating {
 		padding-left: 20px;
 	}
 
+	.hero-menu_header .tabs-menu li#leves,
+	.hero-menu_header .tabs-menu li#teszta {
+		display: none;
+	}
+
 	.hero-menu-item-img {
 		position: relative;
 	}
@@ -5692,7 +5697,7 @@ cite.fn .star-rating {
 	.hero-menu-item-title {
 		float: right;
 		text-align: left;
-		width: calc(100% - 90px);
+		/* width: calc(100% - 90px); */
 	}
 
 	.add_cart {
